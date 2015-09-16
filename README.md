@@ -225,7 +225,7 @@ $('.field').tinyAutocomplete({
 
 ## License
 [MIT]
-
+ 
 [Flat search with local data]: http://tiny-autocomplete.hal.se/local.html
 [Grouped search with local data]: http://tiny-autocomplete.hal.se/grouped.html
 [Flat search with remote data]: http://tiny-autocomplete.hal.se/grouped.html
